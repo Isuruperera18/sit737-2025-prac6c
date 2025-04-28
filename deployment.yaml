@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sit737-2025-prac6c
-        image: s223182277/sit737-2025-prac6c:latest
+        image: s223182277/sit737-2025-prac6c:v2
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
